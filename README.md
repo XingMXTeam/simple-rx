@@ -12,6 +12,3 @@ Hopely you will like it.
 # Usage
 You can learn it from [Test Code](./test/test.js) or [Readme from toy-rx](https://github.com/staltz/toy-rx)
 
-
-If any questions, please issues~!
-
